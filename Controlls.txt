@@ -1,0 +1,18 @@
+Q - to check left side
+E - to check right side
+
+if you just press the same check button two times at a row, it'll go back to the normal position without rotation.
+
+
+Left Click - to shoot
+Right Click - to aim
+
+W-A-S-D - to walk
+F - to use the yellow spheres 
+
+C - to become an ant, you get 3x more damage but you are far smaller and hard to hit
+
+
+Yellow spheres - you get free hitpoints when you use them
+
+
